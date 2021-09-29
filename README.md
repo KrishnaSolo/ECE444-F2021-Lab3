@@ -7,7 +7,7 @@ Labs part of Software Eng course - ece 444
 <img width="792" alt="Screen Shot 2021-09-29 at 1 44 08 PM" src="https://user-images.githubusercontent.com/39069859/135344601-6577f4af-d694-4229-bdfa-d12f81663c1a.png">
 
 ## Activity 2
-<img width="1426" alt="Screen Shot 2021-09-29 at 2 18 47 PM" src="https://user-images.githubusercontent.com/39069859/135344628-3da3e80f-befe-4948-81e9-408f47fcd1f2.png">
+<img width="1343" alt="Screen Shot 2021-09-29 at 5 29 53 PM" src="https://user-images.githubusercontent.com/39069859/135351266-0901ed75-7230-4d8d-a240-8e7dd23f664e.png">
 
 ## Activity 3
 <img width="732" alt="Screen Shot 2021-09-29 at 4 19 19 PM" src="https://user-images.githubusercontent.com/39069859/135344647-60259ffb-ba72-4f4e-8dc8-5e47de28bbdc.png">
